@@ -10,4 +10,4 @@ require (
     golang.org/x/crypto v0.0.0-20170930174604-9419663f5a44 // indirect
 )
 
-replace github.com/MarinX/btc-vanity => github.com/diego2201/btc-vanity v0.0.0-yyyymmddhhmmss-CommitHash
+replace github.com/MarinX/btc-vanity => github.com/diego2201/btc-vanity v0.0.0-20240406192018-2121631eeffbc5635338394d344bc3cc9262ff72
