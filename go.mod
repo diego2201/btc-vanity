@@ -1,5 +1,7 @@
 module github.com/MarinX/btc-vanity
 
+replace github.com/MarinX/btc-vanity => github.com/diego2201/btc-vanity v0.0.0-yyyymmddhhmmss-CommitHash
+
 go 1.12
 
 require (
